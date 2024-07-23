@@ -2,5 +2,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeoHyunHo99&layout=compact)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={shh2849}&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={shh2849}&theme=Warm)
 <img src="http://mazandi.herokuapp.com/api?handle={shh2849}&theme=warm"/>
